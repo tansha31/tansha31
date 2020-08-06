@@ -6,6 +6,11 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Machine Learning and Deep Learning
 
+### Connect with me:
+<a href="https://www.linkedin.com/in/tanmay-sharma-75718b195/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<br>
+
 ### Languages and Tools
 
 - Python
