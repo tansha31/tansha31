@@ -1,18 +1,8 @@
 ### Hi there, I'm Tanmay 👋
 
-## I'm a Student, Data Science and Machine Learning Enthusiast, and Gamer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## I'm a Student, Data Scientist, and a Gamer!
+- 🔭 I’m currently working on Machine Learning and Deep Learning Tools
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Learn Deep Learning and OpenCV
+- ⚡ Fun fact: I love to learn to tools and play games
