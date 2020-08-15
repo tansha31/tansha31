@@ -19,6 +19,8 @@
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-Learn
+- TensorFlow
 - PostgreSQL
 - MySQL
 - Tableau
