@@ -2,7 +2,7 @@
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science Engineering** (Second Year) from **SKIT Jaipur**.
-- 🌱 I'm currently learning Machine Learning and Deep Learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
+- 🌱 I'm currently learning from [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
 - 💻 I'm looking for an **internship** in **Machine Learning** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
@@ -24,7 +24,9 @@
 - Tableau
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/tanmay-sharma-75718b195/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/tanmay-sharma-75718b195/"><img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="https://www.kaggle.com/devilozz"><img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/kaggle.svg" /></a>
 
 <br>
 
