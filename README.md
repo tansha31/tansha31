@@ -23,11 +23,13 @@
 - MySQL
 - Tableau
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/tanmay-sharma-75718b195/"><img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+## Connect with me:
 
-<a href="https://www.kaggle.com/devilozz"><img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/kaggle.svg" /></a>
+- LinkedIn : https://www.linkedin.com/in/tanmay-sharma-75718b195
+- Kaggle : https://www.kaggle.com/devilozz
 
+<br>
+<br>
 <br>
 
 [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tansha31&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
