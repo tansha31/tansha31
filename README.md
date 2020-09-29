@@ -28,8 +28,5 @@
 - LinkedIn : https://www.linkedin.com/in/tanmay-sharma-75718b195
 - Kaggle : https://www.kaggle.com/devilozz
 
-<br>
-<br>
-<br>
 
 [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tansha31&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
