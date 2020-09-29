@@ -30,6 +30,4 @@
 
 <br>
 
----
-
 [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tansha31&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
