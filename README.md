@@ -1,11 +1,12 @@
 ## Hi there, I'm Tanmay 👋
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-### I'm a Student, Data Scientist, and a Gamer!
-- 🔭 I’m currently working on Data Science and Machine Learning
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Machine Learning and Deep Learning
-
+- 🎓 I'm currently pursuing **Bachelors in Computer Science Engineering** (Second Year) from **SKIT Jaipur**.
+- 🌱 I'm currently learning Machine Learning and Deep Learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
+- 💻 I'm looking for an **internship** in **Machine Learning** domain.
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
+- 📌 Scroll down to see my **Pinned Repositories**.
 
 ### Languages and Tools
 
@@ -17,6 +18,7 @@
 - Seaborn
 - Scikit-Learn
 - TensorFlow
+- Keras
 - PostgreSQL
 - MySQL
 - Tableau
